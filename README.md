@@ -26,9 +26,9 @@ Having spent the last eight years in Banking, Music, Film and Television, I deci
 
 ## Projects
 
-| __Project__  | __Description__ | __Technology__ |
-|---|---|---|
-| [*The Vishual Project*](https://github.com/Walker-TW/Front-End-Vishual) | 'The Vishual Project' (named after myself!) was a 2-week final group project. A single page web application that uses API's from Spotify to convert raw data into a musical visualizer.| React.js, Node.js, Canvas, OAUTH, HTML, CSS, Bootstrap,  Jasmine, Cyprus|
+| __Project__  | __Description__ | __Technology__ | __link__ |
+|---|---|---|---|
+| [*The Vishual Project*](https://github.com/Walker-TW/Front-End-Vishual) | 'The Vishual Project' (named after myself!) was a 2-week final group project. A single page web application that uses API's from Spotify to convert raw data into a musical visualizer.| React.js, Node.js, Canvas, OAUTH, HTML, CSS, Bootstrap,  Jasmine, Cyprus| <a href="https://dosdosdesperadosdynamicos.herokuapp.com/"><img src="./images/github.png" height="70" width="70" a>
 | [*Acebook*](https://github.com/basselalsayed/acebook-derailed) | 'Acebook' was a 2-week group project. A clone of Facebook that allows users to sign up, make posts, comment on other users posts, and connect with friends. | Ruby, Ruby on Rails, HTML, CSS, Bootstrap, RSpec, Capybara|
 | [*Bank Tech Test(Ruby)*](https://github.com/Vish-Mayer/bank-tech-test)  | Practice tech test demonstrating my use of Object Orientated Programming and Test Driven Development.| Ruby, Rspec|
 
@@ -96,3 +96,5 @@ To view all of my projects including what I’m currently working on, checkout m
 
 ## Contact
 - __E-mail__, <a href="mailto:vish.mayer@gmail.com">*vish.mayer@gmail.com* </a>
+
+<a href="https://dosdosdesperadosdynamicos.herokuapp.com/"><img src="./images/github.png" height=50px a>
