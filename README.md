@@ -1,55 +1,86 @@
-## Your Name
+```
+     _________
+    / ======= \
+   / __________\
+  | ___________ |
+  | | -       | |
+  | |         | |
+  | |_________| |_________________________________
+  \=____________/      Vishal Mayer Kakkad CV     )  
+  / """"""""""" \                                /
+ / ::::::::::::: \                           =D-'
+(_________________)
+```
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what exictes you about tech.
+##### [*PROJECTS*](#projects) | [*SKILLS*](#skills) | [*EDUCATION*](#education) | [*EXPERIENCE*](#experience) | [*INTERESTS*](#interests) | [*CONTACT*](#contact)
+
+---
+
+## A Little Bit About Myself
+
+I am a creative, self-motivated Full Stack Software Engineer with an eye for design and a passion for making ideas come to life. I'm an enthusiastic learner and am always looking to improve and gain new skills. A natural team player with a history of delivering successful projects, I am passionate about building elegant solutions to real problems.
+
+Having spent the last eight years in Banking, Music, Film and Television, I decided to retrain as a Software Engineer to combine two passions. Making things and technology. I have always been someone that loves to see an instant output for my work, and find that I get the same creative buzz writing code as I do when making music, working in film, or even cooking food. Being able to produce creative products from a technical codebase is extremely exciting to me as you are limited only by your imagination.
+
+
+---
+
+## Projects
+
+| __Project__  | __Description__ | __Technology__ |
+|---|---|---|
+| [*The Vishual Project*](https://github.com/Walker-TW/Front-End-Vishual) | 'The Vishual Project' (named after myself!) was a 2-week final group project. A single page web application that uses API's from Spotify to convert raw data into a musical visualizer.| React.js, Node.js, Canvas, HTML, CSS, Bootstrap,  Jasmine, Cyprus|
+| [*Acebook*](https://github.com/basselalsayed/acebook-derailed) | 'Acebook' was a 2-week group project. A clone of Facebook that allows users to sign up, make posts, comment on other users posts, and connect with friends. | Ruby, Ruby on Rails, HTML, CSS, Bootstrap, RSpec, Capybara|
+| [*Bank Tech Test(Ruby)*](https://github.com/Vish-Mayer/bank-tech-test)  | Practice tech test demonstrating my use of Object Orientated Programming and Test Driven Development.| Ruby, Rspec|
+
+To view all of my projects including what I’m currently working on, checkout my [*Github Repository*](https://github.com/Vish-Mayer?tab=repositories)!
+
+---
 
 ## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-
-#### This Skill
-
-- Experience
-- Achievements
-- Evidence
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
-
+---
 ## Education
 
-#### Makers Academy (start_date to end_date)
+**Makers Academy** (2019 to 2020)
 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- Object Orientated Programming and software design
+- Full Stack Web Development
+- Test Driven/Behaviour Driven Development
+- Independent Learning
+- MVC framework with RESTful API structure
 
-#### Your University / College (start_date to end_date)
+*Experience with the following tech:*
+- Ruby, JavaScript, React, Node
+- Ruby on Rails, Sinatra
+- PostgreSQL
+- RSpec, Capybara, Jest, Jasmine, Cyprus
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
 
-#### Any other qualifications
+**The Actors Studio** (2013 - 2015)
+- Lee Strasberg Technique
 
-That in some arguable way make you a better software developer or well-rounded person
+---
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-- Any experience relevent to software development
+**Crescent Management** (2015 - 2018)   
+*Talent Agent*  
+- In this multi-tasked role, I represented actors for film, television and stage whilst providing extensive support to the entire team and department. I would work on behalf of the clients to promote and represent their interests, and would typically handle the majority of all interactions between the client and the employer. Extra responsibilities included creating and maintaining strong relationships with casting directors and attending evening performances, exhibiting potential clients.
 
-**Company Name** (start_date to end_date)   
-*Your job title*  
-- Any experience relevent to software development
+**Santander Bank** (2012 - 2015)    
+*Assistant Risk and Control Manager*  
+- Initially employed as a Customer Service Advisor to give premium customer service and to assist in the day to day handling of customer relations. After 9 months I boosted sales figures for my branch by 150% landing us in the “Top 3 Performing Branches” in all metrics in 2012. I was then quickly promoted to Assistant Risk and Control Manager.
 
-## Hobbies
+---
 
-Any cool stuff that makes you a super part of a software development team
+## Interests
+
+- __Making things__: Whether it's cooking food, DIY, building models, making music, working in film or building software, I have always loved seeing an instant output for my work. Some of which has been featured on film and stage.
+
+- __Backpacking__: I love to explore the world, I have backpacked around a large portion of Europe and most recently South East Asia.
+
+---
+
+## Contact
+- __E-mail__, <a href="mailto:vish.mayer@gmail.com">*vish.mayer@gmail.com* </a>
