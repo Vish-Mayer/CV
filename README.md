@@ -39,11 +39,25 @@ To view all of my projects including what I’m currently working on, checkout m
 
 ## Skills
 
+**Fast learner** - In my final project at Makers, we chose to use React.js, Node.js, React-Canvas and Spotify APIs. No one in my team had experience in either of the four and we had a deadline of two weeks. However, due to our persistence and commitment to the project we managed to create a fully original music visualizer.
+
+**Team player** - I have excellent interpersonal skills and fit into a team naturally; I am able to colloborate and follow an AGILE workflow when taking instructions and when in a leadership role. During a team project to build a Facebook clone, I hosted morning stand-ups, evening retrospectives and guided feedback sessions. 
+
+**Problem Solver** - Although I am highly motivated by results and love seeing my teams hard work up in bright lights, getting there is half the fun. I thrive when I find myself reverse engineering my way out of a sticky situation. If I don’t know the answer, you will generally find me on Google or Stack Overflow looking for it! In my spare time for fun I enjoy gaming, solving puzzles, and more recently solving kata’s on codewars.
+
+
+**Design** - Since I was a child, I have been interested in art and still enjoy painting aswell as designing artwork on my laptop. This combined with my passion for music production and its software gives me an in-depth understanding of how great design fuels an excellent user experience. Because of this, I started teaching myself HTML, CSS and Bootstrap alongside the out lined course materials at Makers. I take pride in my code, and I also take pride in the finished product. 
+
+
+
 ---
 ## Education
 
-**Makers Academy** (2019 to 2020)
+**Makers Academy** (2019 - 2020)
 
+A high intensity 12 week software development bootcamp
+
+- Agile/XP 
 - Object Orientated Programming and software design
 - Full Stack Web Development
 - Test Driven/Behaviour Driven Development
@@ -58,6 +72,7 @@ To view all of my projects including what I’m currently working on, checkout m
 
 
 **The Actors Studio** (2013 - 2015)
+
 - Lee Strasberg Technique
 
 ---
