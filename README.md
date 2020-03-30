@@ -26,11 +26,11 @@ Having spent the last eight years in Banking, Music, Film and Television, I deci
 
 ## Projects
 
-| __Project__  | __Description__ | __Technology__ | __link__ |
+| __Project__  | __Description__ | __Technology__ | __Link__ |
 |---|---|---|---|
-| [*The Vishual Project*](https://github.com/Walker-TW/Front-End-Vishual) | 'The Vishual Project' (named after myself!) was a 2-week final group project. A single page web application that uses API's from Spotify to convert raw data into a musical visualizer.| React.js, Node.js, Canvas, OAUTH, HTML, CSS, Bootstrap,  Jasmine, Cyprus| <a href="https://github.com/Walker-TW/Front-End-Vishual/"><img src="./images/github.png" width=200 heig a>
-| [*Acebook*](https://github.com/basselalsayed/acebook-derailed) | 'Acebook' was a 2-week group project. A clone of Facebook that allows users to sign up, make posts, comment on other users posts, and connect with friends. | Ruby, Ruby on Rails, HTML, CSS, Bootstrap, RSpec, Capybara|
-| [*Bank Tech Test(Ruby)*](https://github.com/Vish-Mayer/bank-tech-test)  | Practice tech test demonstrating my use of Object Orientated Programming and Test Driven Development.| Ruby, Rspec|
+| **The Vishual Project**| 'The Vishual Project' (named after myself!) was a 2-week final group project. A single page web application that uses API's from Spotify to convert raw data into a musical visualizer.| React.js, Node.js, Canvas, OAUTH, HTML, CSS, Bootstrap,  Jasmine, Cyprus| <a href="https://github.com/Walker-TW/Front-End-Vishual/"><img src="./images/github.png" width=200 a>
+| **Acebook** | 'Acebook' was a 2-week group project. A clone of Facebook that allows users to sign up, make posts, comment on other users posts, and connect with friends. | Ruby, Ruby on Rails, HTML, CSS, Bootstrap, RSpec, Capybara| <a href="https://github.com/basselalsayed/acebook-derailed/"><img src="./images/github.png" width=200 a>
+| **Bank Tech Test(Ruby)** | Practice tech test demonstrating my use of Object Orientated Programming and Test Driven Development.| Ruby, Rspec| <a href="https://github.com/Vish-Mayer/bank-tech-test/"><img src="./images/github.png" width=200 a>
 
 To view all of my projects including what I’m currently working on, checkout my [*Github Repository*](https://github.com/Vish-Mayer?tab=repositories)!
 
@@ -96,5 +96,3 @@ To view all of my projects including what I’m currently working on, checkout m
 
 ## Contact
 - __E-mail__, <a href="mailto:vish.mayer@gmail.com">*vish.mayer@gmail.com* </a>
-
-<a href="https://dosdosdesperadosdynamicos.herokuapp.com/"><img src="./images/github.png" height=50px a>
