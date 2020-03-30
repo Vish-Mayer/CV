@@ -88,7 +88,7 @@ To view all of my projects including what I’m currently working on, checkout m
 
 ## Interests
 
-- __Making things__: Whether it's playing and producing music, working on a film or stage production, cooking food, DIY, building models, or building software, I have always loved seeing an instant output for my work. Some of which has been featured on film and stage.
+- __Making things__: Whether it's playing and producing music, working on a film or stage production, cooking food, DIY, painting, or building software, I have always loved seeing an instant output for my work. Some of which has been featured on film and stage.
 
 - __Backpacking__: I love to explore the world, I have backpacked around a large portion of Europe and most recently South East Asia.
 
