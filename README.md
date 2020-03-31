@@ -18,7 +18,7 @@
 
 ## A Little Bit About Myself
 
-I am a creative, self-motivated Full Stack Software Engineer with an eye for design and a passion for making ideas come to life. I'm an enthusiastic learner and am always looking to improve and gain new skills. A natural team player with previous managerial experience and a history of delivering successful projects, I am passionate about building elegant solutions to real problems.
+A creative, self-motivated Full Stack Software Engineer with an eye for design and a passion for making ideas come to life. I'm an enthusiastic learner and am always looking to improve and gain new skills. A natural team player with previous managerial experience and a history of delivering successful projects, I am passionate about building elegant solutions to real problems.
 
 Having spent the last eight years in Banking, Music, Film and Television, I decided to retrain as a Software Engineer to combine two passions. Making things and technology. I have always loved seeing an instant output for my work, and find that I get the same creative buzz writing code as I do when making music, working in film, or even cooking food. Being able to produce creative products from a technical codebase is extremely exciting to me as you are limited only by your imagination.
 
@@ -30,7 +30,7 @@ Having spent the last eight years in Banking, Music, Film and Television, I deci
 |---|---|---|---|
 | **The Vishual Project**| 'The Vishual Project' (named after myself!) was a 2-week final group project. A single page web application that uses API's from Spotify to convert raw data into a musical visualizer.| <a href="https://github.com/Walker-TW/Front-End-Vishual/"><img src="./images/github.png" width=220 a>| React.js, Node.js, Canvas, OAUTH, HTML, CSS, Bootstrap,  Jasmine, Cyprus
 | **Acebook** | 'Acebook' was a 2-week group project. A clone of Facebook that allows users to sign up, make posts, comment on other users posts, and connect with friends. | <a href="https://github.com/basselalsayed/acebook-derailed/"><img src="./images/github.png" width=220 a>| Ruby, Ruby on Rails, HTML, CSS, Bootstrap, RSpec, Capybara
-| **Bank Tech Test(Ruby)** | Practice tech test demonstrating my use of Object Orientated Programming and Test Driven Development.| <a href="https://github.com/Vish-Mayer/bank-tech-test/"><img src="./images/github.png" width=220 a> | Ruby, Rspec
+| **Bank Tech Test (Ruby)** | Practice tech test demonstrating my use of Object Orientated Programming and Test Driven Development.| <a href="https://github.com/Vish-Mayer/bank-tech-test/"><img src="./images/github.png" width=220 a> | Ruby, Rspec
 
 To view all of my projects including what I’m currently working on, checkout my [Github Repository](https://github.com/Vish-Mayer?tab=repositories)!
 
