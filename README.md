@@ -18,9 +18,9 @@
 
 ## A Little Bit About Myself
 
-A creative, ambitious and enthusiastic Full Stack Software Engineer with an eye for design and a passion for making ideas come to life. I have self-funded my studies showing sheer determination and a natural drive to succeed. Having a very inquisitive mind has allowed me to have develop a 'no fail' attitude and am I able to challenge the status quo for the greater good. During my working career, I have shown to be a natural problem solver taking complex situations and relaying them in a simplistic logical manner.
+A creative, ambitious and enthusiastic Full Stack Software Engineer with an eye for design and a passion for making ideas come to life. I have self-funded my studies showing sheer determination and a natural drive to succeed. Having a very inquisitive mind has allowed me to have develop a 'no fail' attitude and I am willing to challenge the status quo for the greater good of the customer. During my working career, I have shown to be a natural problem solver taking complex situations and relaying them in a simplistic logical manner.
 
-I am extremely proud of training as an actor. Not only was this very rewarding but I found that I learned a lot about myself through the journey of others. I now effectively adapt my style of communication to fit an agile workflow and class this as one of my strongest attributes. During my working career, I have rapidly assimilated the learning process to in house operations, consistently supporting employers which had resulted in fast track advancement to more senior positions. A natural team player with a history of delivering successful projects, I am passionate about building elegant solutions to real problems.
+I am extremely proud of training as an actor. Not only was this very rewarding but I found that I learned a lot about myself through the journey of others. I now effectively adapt my style of communication to fit an agile workflow and class this as one of my strongest attributes. In my previous professions, I have always assimilated the learning process to in house operations, consistently supporting employers which had resulted in fast track advancement to more senior positions. A natural team player with a history of delivering successful projects, I am passionate about building elegant solutions to real problems.
 
 ---
 
