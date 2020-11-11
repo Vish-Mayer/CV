@@ -108,6 +108,6 @@ To view all of my projects including what I’m currently working on, checkout m
 ---
 
 ## Contact
-- <a href="watchvishcode.net">watchvishcode.net</a>
+- <a href="https://watchvishcode.net">Website</a>
 - <a href="https://www.linkedin.com/in/vishal-mayer-kakkad-a04607189/">Linkedin</a>
-- <a href="mailto:vish.mayer@gmail.com">vish.mayer@gmail.com </a>
+- <a href="mailto:vish.mayer@gmail.com">Email</a>
