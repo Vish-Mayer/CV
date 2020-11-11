@@ -28,9 +28,10 @@ I am extremely proud of training as an actor. Not only was this very rewarding b
 
 | __Project__  | __Description__ | __Link__ | __Technology__ |
 |---|---|---|---|
-| **The Vishual Project**| 'The Vishual Project' (named after myself!) was a 2-week final group project. A single page web application that uses API's from Spotify to convert raw data into a musical visualizer.| <a href="https://github.com/Walker-TW/Front-End-Vishual/"><img src="./images/github.png" width=220 a>| React.js, Node.js, Canvas, OAUTH, HTML, CSS, Bootstrap,  Jasmine, Cyprus
+| **Portfolio**| My personal portfolio web app that I build with React.js using OOP and TDD principles to drive the project. The application is fully responsive and I deployed it using Firebase. It is currently being hosted at <a href="watchvishcode.net">watchvishcode.net</a>| <a href="https://github.com/Vish-Mayer/portfolio/"><img src="./images/github.png" width=220 a>| React.js, HTML, CSS, Bootstrap, Jest , Enzyme, Cypress
+| **The Vishual Project**| 'The Vishual Project' was a 2-week group project. A single page web application that uses API's from Spotify to convert raw data into a musical visualizer.| <a href="https://github.com/Walker-TW/Front-End-Vishual/"><img src="./images/github.png" width=220 a>| React.js, Node.js, Canvas, OAUTH, HTML, CSS, Bootstrap,  Jasmine, Cyprus
 | **Acebook** | 'Acebook' was a 2-week group project. A clone of Facebook that allows users to sign up, make posts, comment on other users posts, and connect with friends. | <a href="https://github.com/basselalsayed/acebook-derailed/"><img src="./images/github.png" width=220 a>| Ruby, Ruby on Rails, HTML, CSS, Bootstrap, RSpec, Capybara
-| **Bank Tech Test (Ruby)** | Practice tech test demonstrating my use of Object Orientated Programming and Test Driven Development.| <a href="https://github.com/Vish-Mayer/bank-tech-test/"><img src="./images/github.png" width=220 a> | Ruby, Rspec
+| **Bank Tech Test (Ruby)** | Technical test demonstrating my use of Object Orientated Programming and Test Driven Development in Ruby.| <a href="https://github.com/Vish-Mayer/bank-tech-test/"><img src="./images/github.png" width=220 a> | Ruby, Rspec
 
 To view all of my projects including what I’m currently working on, checkout my [Github Repository](https://github.com/Vish-Mayer?tab=repositories)!
 
@@ -53,18 +54,18 @@ To view all of my projects including what I’m currently working on, checkout m
 
 **Makers Academy** (2019 to 2020)
 
-- Agile Project Management
+- Agile Development
+- Test Driven Development
 - Object Orientated Programming and software design
 - Full Stack Web Development
-- Test Driven/Behaviour Driven Development
 - Independent Learning
 - MVC framework with RESTful API structure
 
 *Experience with the following tech:*
-- Ruby, JavaScript, React.js, Node.js
-- Ruby on Rails, Sinatra
-- PostgreSQL, AWS, Socket.io
-- RSpec, Capybara, Jest, Jasmine, Cyprus
+- Practices: OOP, TDD, Agile, MVC, Agile/XP
+- Languages: Ruby, JavaScript, Python, HTML, CSS
+- Test suites: RSpec, Capybara, Jasmine, Jest, Enzyme, Jasmine, Cyprus
+- Other: Firebase, Heroku, TravisCI
 
 **The Actors Studio** (2013 - 2015)
 - Lee Strasberg Technique
@@ -97,15 +98,16 @@ To view all of my projects including what I’m currently working on, checkout m
 
 ## Interests
 
-- Playing Guitar and Piano/Writing/Performing original music.
-- Content Creation – self-taught in using music and film production using DAW’s such as Logic Pro X and Final                    
-- Attending live music and theatre shows
+- Playing Guitar            
 - Cooking
 - Scuba Diving (PADI Qualified)
 - Travelling
 - Sports - Snooker, Golf, Basketball, Table Tennis
+- Other Tech - Logic Pro X, Final Cut Pro, Photoshop
 
 ---
 
 ## Contact
-- __E-mail__, <a href="mailto:vish.mayer@gmail.com">vish.mayer@gmail.com </a>
+- <a href="watchvishcode.net">watchvishcode.net</a>
+- <a href="https://www.linkedin.com/in/vishal-mayer-kakkad-a04607189/">Linkedin</a>
+- <a href="mailto:vish.mayer@gmail.com">vish.mayer@gmail.com </a>
