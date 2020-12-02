@@ -32,6 +32,7 @@ I am extremely proud of training as an actor. Not only was this very rewarding b
 | **The Vishual Project**| 'The Vishual Project' was a 2-week group project. A single page web application that uses API's from Spotify to convert raw data into a musical visualizer.| <a href="https://github.com/Walker-TW/Front-End-Vishual/" target="_blank" rel="noreferrer noopener"><img src="./images/github.png" width=220 a>| React.js, Node.js, Canvas, OAUTH, HTML, CSS, Bootstrap,  Jasmine, Cyprus
 | **Acebook** | 'Acebook' was a 2-week group project. A clone of Facebook that allows users to sign up, make posts, comment on other users posts, and connect with friends. | <a href="https://github.com/basselalsayed/acebook-derailed/" target="_blank" rel="noreferrer noopener"><img src="./images/github.png" width=220 a>| Ruby, Ruby on Rails, HTML, CSS, Bootstrap, RSpec, Capybara
 | **Bank Tech Test (Ruby)** | Technical test demonstrating my use of Object Orientated Programming and Test Driven Development in Ruby.| <a href="https://github.com/Vish-Mayer/bank-tech-test/" target="_blank" rel="noreferrer noopener"><img src="./images/github.png" width=220 a> | Ruby, Rspec
+| **Notes Application**| Technical test demonstrating my use of Object Orientated Programming and Test Driven Development using React| <a href="https://github.com/Vish-Mayer/notes-app-react/" target="_blank" rel="noreferrer noopener"><img src="./images/github.png" width=220 a>| React.js, Jest, Enzyme
 
 To view all of my projects including what I’m currently working on, checkout my [Github Repository](https://github.com/Vish-Mayer?tab=repositories)!
 
@@ -84,15 +85,24 @@ To view all of my projects including what I’m currently working on, checkout m
 - Created publicity and promotional social media content
 - Represented by Crescent Management as an actor
 
-**Santander Bank** (2012 - 2015)    
+**Santander Bank** (2013 - 2015)    
 *Assistant Risk and Control Manager*  
 
-- Initially employed as a Customer Service Advisor, quickly promoted after boosting sales figures in all metrics.
-- Effectively resolving customer queries whilst overlaying this with first class customer service
-- Making relevant recommendations to customers and offering products that are of benefit
+- Initially employed as a Customer Service Advisor, promoted after boosting sales figures in all metrics.
 - Improved skills to work well in teams and to participate as a team member and leader
 - Responsible for five customer service direct reports
 - Continuously trained and developed skills of my direct reports
+
+
+**Santander Bank** (2012 - 2013)    
+*Customer Service Advisor*  
+
+- Effectively resolving customer queries whilst overlaying this with first class customer service
+- Processing payments and withdrawals
+- Setting up and maintaining customers' accounts
+- Promoting and selling financial products and services to customers
+- Using the IT system to update account details
+
 
 ---
 
