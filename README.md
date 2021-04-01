@@ -65,7 +65,9 @@ To view all of my projects including what I’m currently working on, checkout m
 
 *Experience with the following tech:*
 - Practices: OOP, TDD, Agile, MVC, Agile/XP
-- Languages: Ruby, JavaScript, Python, HTML, CSS
+- Languages: Ruby, JavaScript, ReactJS, Python, GraphQL, HTML, CSS
+- Frameworks: Ruby on Rails, Sinatra, Django, React.js, Vue.js
+- Databases: PostgreSQL, MongoDB
 - Test suites: RSpec, Capybara, Jasmine, Jest, Enzyme, Jasmine, Cyprus
 - Other: Firebase, Heroku, TravisCI
 
